@@ -9,8 +9,7 @@
 
     1. HTML
     2. CSS
-    3. Bootstrap
-    4. JavaScript
+    3. JavaScript
 
 ## 🚩   Live Link : 
 </br>
