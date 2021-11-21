@@ -2,6 +2,8 @@
 
 ## You click on this google chrome extension to get a random Joke or a  Pun every time  
 </br>
+![puns](https://user-images.githubusercontent.com/57556534/142757582-75338e15-0411-4c10-a8d1-5a04243ffe29.png)
+
 
 
 ## 🔨 Technology Stack :
