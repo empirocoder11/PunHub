@@ -3,8 +3,7 @@
 ## You click on this google chrome extension to get a random Joke or a  Pun every time  
 </br>
    
-   ![puns](https://user-images.githubusercontent.com/57556534/142758239-025d88f2-6fb5-4ad7-80c9-d39b94f09dca.png)
-
+                                                    
    
 ## 🔨 Technology Stack :
  **Front End**
